@@ -1,1 +1,2 @@
 # Diwali_sales_analysis
+The Diwali Sales Data Analysis project is a comprehensive exploration of sales data during the Diwali season, aiming to derive valuable insights and trends from the dataset. The analysis is performed using popular Python libraries such as pandas, numpy, matplotlib, and seaborn. The project is organized to provide a clear and insightful summary of the Diwali sales data, showcasing the power of exploratory data analysis (EDA) techniques.
